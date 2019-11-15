@@ -1,2 +1,9 @@
-# EIP4.0
-noteboooks as part EIP4.0 assignment
+# Basics of DNN
+Convolution
+Filters/Kernels
+Epochs
+1x1 Convolution
+3x3 Convolution
+Feature Maps
+Activation Function
+Receptive Field
