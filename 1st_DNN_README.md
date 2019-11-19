@@ -4,7 +4,7 @@
 Result :print(score)
   [0.031672996063345636, 0.9906]
 
-# Basics of DNN
+# Basics of CNN
 Convolution: It means to apply a mathematical operation (sum product of a filter) on a part of input to extract a feature.
 Filters/Kernels: Filters are multidimensional array of weights that are applied to a part of data to compute dot product of weights & data.
 Epochs: 1 Epoch is said to be complete when we parse through complete data. We do it multiple times to learn more about data.
